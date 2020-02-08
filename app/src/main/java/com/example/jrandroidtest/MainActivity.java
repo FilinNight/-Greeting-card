@@ -17,5 +17,6 @@ public class MainActivity extends AppCompatActivity {
     {
         double asd = 123123123;
         System.out.println(asd);
+        System.out.println("asdsadasdasdasd");
     }
 }
