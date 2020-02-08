@@ -15,7 +15,7 @@ public class MainActivity extends AppCompatActivity {
 
     public void Test()
     {
-        int d = 10;
-        int c =230;
+        double asd = 123123123;
+        System.out.println(asd);
     }
 }
